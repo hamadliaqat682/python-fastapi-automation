@@ -1,3 +1,6 @@
+
+![Python Tests](https://github.com/hamadliaqat682/python-fastapi-automation/actions/workflows/tests.yml/badge.svg)
+
 # Python & FastAPI Lead Qualification Automation
 
 A runnable demonstration API that validates incoming sales leads, applies a transparent scoring rule, and returns a CRM-ready JSON payload.
